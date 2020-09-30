@@ -40,6 +40,7 @@
     <logger name="LiquibaseSchemaResolver" level="INFO"/>
     <logger name="sun.rmi.transport" level="WARN"/>
     <logger name="com.tngtech.archunit.core.importer" level="ERROR"/>
+    <logger name="Hypersistence Optimizer" level="info"/>
 
     <root>
         <level>WARN</level>
